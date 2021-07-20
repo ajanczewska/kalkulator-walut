@@ -1,1 +1,5 @@
 .vscode/settings.json
+dist
+build
+__pycache__
+kursy_walut.spec

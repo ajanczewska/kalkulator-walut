@@ -2,7 +2,7 @@ import tkinter as tk
 import tkinter.ttk as ttk
 import  urllib.request
 import xmltodict
-import chardet
+
 try:
     resource = urllib.request.urlopen("https://api.nbp.pl/api/exchangerates/tables/a?format=xml")
     content = resource.read()
