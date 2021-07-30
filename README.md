@@ -4,6 +4,7 @@
 
 Aplikacja służy do przeliczania kursów walut.<br>
 Użytkownik ma do wyboru 36 różnych walut.<br>
+Aktuale wartości kursów walut pobierane są ze strony <a href="https://api.nbp.pl/">Narodowego Banku Polskiego</a>.<br>
 Waluty można wybierać z następujących list rozwijanych:<br>
 
  - <b><em>Wybierz walutę źródłową</em></b> - waluta, którą chcemy przeliczyć,
